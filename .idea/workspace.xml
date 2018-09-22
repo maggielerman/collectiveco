@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b679abad-b29e-48f2-8b36-2ff094147f43" name="Default Changelist" comment="" />
+    <list default="true" id="b679abad-b29e-48f2-8b36-2ff094147f43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/1109133785879691" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/17358874_10155000492267435_4667280997832897458_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/3029083(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/3029083.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/430665183952208" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/955510254624935" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Brightpearl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Calyah logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/DOPE LOGO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Folio_Flatspot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Folio_calyah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Hera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Klarna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Lazy Oaf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Leesa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/M3I7KRVDM5G4JIHB63YUWQ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/MG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/NENWZDVPDFDVTA7A7VXIW5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/NHS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Nosto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Rains.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/ReCharge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Scitec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Wasps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/Yotpo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/_dmpt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/banner-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/bold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded(2).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded(3).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/current.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/dotmailer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/fb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/fbevents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/flatspot black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/folioherahi-res-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/framework.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/hera_logo_2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/hotjar-720856.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/leadflows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2(2).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2(3).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/logo-long-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/modules-f8a1e283f65f251ee5a9c2c382e49726.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/nowbackinstock-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(10)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(11)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(12)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(2)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(3)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(4)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(5)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(6)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(7)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(8)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/out(9)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/rains-logo-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/roundtrip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/sendrolling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/shopify-partner-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/shopify-plus-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/shopify-plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/smileio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/v2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collective_files/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,24 +111,137 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="M3I7KRVDM5G4JIHB63YUWQ" value="1" />
+          <entry key="png" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1544167883">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="htm" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1630" />
+            <state relative-caret-position="19807">
+              <caret line="958" column="269" selection-start-line="958" selection-start-column="269" selection-end-line="958" selection-end-column="269" />
+              <folding>
+                <element signature="e#7159#7376#2" expanded="true" />
+                <element signature="e#7444#7661#2" expanded="true" />
+                <element signature="e#15628#15845#2" expanded="true" />
+                <element signature="e#15913#16130#2" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#4;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#5;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#6;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#4;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#5;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#25621#25626#0" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#2;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#3;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#4;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#fieldset#5;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#5;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#6;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#1;n#div#3;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#1;n#div#0;n#div#0;n#div#2;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#7;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#7;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>we make</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.htm" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -58,13 +265,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="collectiveco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collectiveco" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="collectiveco" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collectiveco" type="462c0819:PsiDirectoryNode" />
-              <item name="collective_files" type="462c0819:PsiDirectoryNode" />
+              <item name="ecl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,22 +304,20 @@
       <option name="presentableId" value="Default" />
       <updated>1537559486180</updated>
       <workItem from="1537559489478" duration="402000" />
+      <workItem from="1537625241404" duration="372000" />
+      <workItem from="1537626476917" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="402000" />
+    <option name="totallyTimeSpent" value="828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="25" width="1251" height="739" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -125,10 +325,33 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979658" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -137,9 +360,91 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/collective_files/logo-long-white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collective_files/MG.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collective_files/M3I7KRVDM5G4JIHB63YUWQ">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collective_files/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1630" />
+        <state relative-caret-position="19807">
+          <caret line="958" column="269" selection-start-line="958" selection-start-column="269" selection-end-line="958" selection-end-column="269" />
+          <folding>
+            <element signature="e#7159#7376#2" expanded="true" />
+            <element signature="e#7444#7661#2" expanded="true" />
+            <element signature="e#15628#15845#2" expanded="true" />
+            <element signature="e#15913#16130#2" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#4;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#5;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#6;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#4;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#5;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#25621#25626#0" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#1;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#2;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#3;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#4;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#fieldset#5;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#5;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#legend#0;n#div#0;n#fieldset#6;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#form#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#header#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#1;n#div#3;n#div#1;n#div#0;n#div#1;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#1;n#div#0;n#div#0;n#div#2;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#0;n#div#3;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#0;n#div#4;n#section#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
