@@ -2,99 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b679abad-b29e-48f2-8b36-2ff094147f43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/1109133785879691" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/17358874_10155000492267435_4667280997832897458_o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/3029083(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/3029083.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/430665183952208" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/955510254624935" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Artboard 8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Brightpearl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Calyah logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/DOPE LOGO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Folio_Flatspot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Folio_calyah.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Hera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Klarna.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Lazy Oaf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Leesa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/M3I7KRVDM5G4JIHB63YUWQ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/MG.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/NENWZDVPDFDVTA7A7VXIW5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/NHS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Nosto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Rains.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/ReCharge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Scitec.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Wasps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/Yotpo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/_dmpt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/analytics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/banner-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/bold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded(3).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/cta-loaded.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/current.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/dotmailer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/fb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/fbevents.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/flatspot black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/folioherahi-res-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/framework.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/hera_logo_2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/hotjar-720856.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/leadflows.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2(3).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/loader-v2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/logo-long-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/manifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/modules-f8a1e283f65f251ee5a9c2c382e49726.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/nowbackinstock-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(10)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(11)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(12)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(2)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(3)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(4)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(5)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(6)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(7)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(8)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/out(9)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/rains-logo-white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/roundtrip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/sendrolling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/shopify-partner-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/shopify-plus-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/shopify-plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/smileio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/v2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collective_files/vendor.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcs/logo-long-white.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -138,11 +47,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="htm" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
+          <entry key="Image" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="htm" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="20" />
         </counts>
       </usages-collector>
     </session>
@@ -152,13 +74,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19807">
-              <caret line="958" column="269" selection-start-line="958" selection-start-column="269" selection-end-line="958" selection-end-column="269" />
+            <state relative-caret-position="18516">
+              <caret line="908" column="73" selection-start-line="908" selection-start-column="73" selection-end-line="908" selection-end-column="73" />
               <folding>
-                <element signature="e#7159#7376#2" expanded="true" />
-                <element signature="e#7444#7661#2" expanded="true" />
-                <element signature="e#15628#15845#2" expanded="true" />
-                <element signature="e#15913#16130#2" expanded="true" />
+                <element signature="e#7227#7444#2" expanded="true" />
+                <element signature="e#7512#7729#2" expanded="true" />
+                <element signature="e#15696#15913#2" expanded="true" />
+                <element signature="e#15981#16198#2" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
@@ -174,7 +96,7 @@
                 <element signature="n#style#0;n#img#3;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#4;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#5;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#25621#25626#0" expanded="true" />
+                <element signature="e#25829#25834#0" expanded="true" />
                 <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -231,7 +153,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>we make</find>
+      <find>collective_files</find>
     </findStrings>
+    <replaceStrings>
+      <replace>srcs</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -267,6 +193,11 @@
             <path>
               <item name="ecl" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecl" type="462c0819:PsiDirectoryNode" />
+              <item name="srcs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,15 +236,16 @@
       <updated>1537559486180</updated>
       <workItem from="1537559489478" duration="402000" />
       <workItem from="1537625241404" duration="372000" />
-      <workItem from="1537626476917" duration="54000" />
+      <workItem from="1537626476917" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="828000" />
+    <option name="totallyTimeSpent" value="1271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="25" width="1251" height="739" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,15 +304,24 @@
     <entry file="file://$PROJECT_DIR$/collective_files/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/NHS.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/nowbackinstock-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/logo-long-white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19807">
-          <caret line="958" column="269" selection-start-line="958" selection-start-column="269" selection-end-line="958" selection-end-column="269" />
+        <state relative-caret-position="18516">
+          <caret line="908" column="73" selection-start-line="908" selection-start-column="73" selection-end-line="908" selection-end-column="73" />
           <folding>
-            <element signature="e#7159#7376#2" expanded="true" />
-            <element signature="e#7444#7661#2" expanded="true" />
-            <element signature="e#15628#15845#2" expanded="true" />
-            <element signature="e#15913#16130#2" expanded="true" />
+            <element signature="e#7227#7444#2" expanded="true" />
+            <element signature="e#7512#7729#2" expanded="true" />
+            <element signature="e#15696#15913#2" expanded="true" />
+            <element signature="e#15981#16198#2" expanded="true" />
             <element signature="n#style#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#0;n#head#0;n#html#0;n#!!top" expanded="true" />
@@ -396,7 +337,7 @@
             <element signature="n#style#0;n#img#3;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#4;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#5;n#div#1;n#head#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#25621#25626#0" expanded="true" />
+            <element signature="e#25829#25834#0" expanded="true" />
             <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
