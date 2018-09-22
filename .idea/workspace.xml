@@ -87,13 +87,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="htm" value="688" />
+          <entry key="htm" value="1083" />
           <entry key="html" value="197" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="885" />
+          <entry key="HTML" value="1280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -120,8 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2442">
-              <caret line="94" column="106" selection-start-line="94" selection-start-column="106" selection-end-line="94" selection-end-column="106" />
+            <state relative-caret-position="331">
+              <caret line="833" column="54" selection-start-line="833" selection-start-column="54" selection-end-line="833" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#26304#26310#0" expanded="true" />
@@ -155,6 +155,10 @@
       <find>shopify-section</find>
       <find>cart-button</find>
       <find>favicon</find>
+      <find>about</find>
+      <find>home</find>
+      <find>ecommerce</find>
+      <find>analystics</find>
     </findStrings>
     <replaceStrings>
       <replace>easterncoastdigital.netlify.com</replace>
@@ -250,12 +254,12 @@
       <workItem from="1537643061977" duration="54000" />
       <workItem from="1537643267444" duration="1129000" />
       <workItem from="1537650043987" duration="1361000" />
-      <workItem from="1537652310283" duration="128000" />
+      <workItem from="1537652310283" duration="1093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8046000" />
+    <option name="totallyTimeSpent" value="9011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="23" width="1251" height="739" extended-state="0" />
@@ -331,8 +335,8 @@
     <entry file="file://$PROJECT_DIR$/about.htm" />
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2442">
-          <caret line="94" column="106" selection-start-line="94" selection-start-column="106" selection-end-line="94" selection-end-column="106" />
+        <state relative-caret-position="331">
+          <caret line="833" column="54" selection-start-line="833" selection-start-column="54" selection-end-line="833" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#26304#26310#0" expanded="true" />
