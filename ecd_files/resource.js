@@ -1,0 +1,1 @@
+console.log('Social Login uninstalled at 2017-08-22T21:42:45+00:00')
